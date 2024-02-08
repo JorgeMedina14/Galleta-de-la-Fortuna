@@ -1,0 +1,10 @@
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\obj\Debug\GalletaFortuna.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\obj\Debug\GalletaFortuna.Form1.resources
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\obj\Debug\GalletaFortuna.Properties.Resources.resources
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\obj\Debug\GalletaFortuna.csproj.GenerateResource.cache
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\obj\Debug\GalletaFortuna.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\bin\Debug\GalletaFortuna.exe.config
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\bin\Debug\GalletaFortuna.exe
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\bin\Debug\GalletaFortuna.pdb
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\obj\Debug\GalletaFortuna.exe
+C:\Users\jorge\Desktop\Programacion III\Tarea 1\GalletaFortuna\GalletaFortuna\obj\Debug\GalletaFortuna.pdb
